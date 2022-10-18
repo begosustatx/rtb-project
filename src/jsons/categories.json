@@ -1,0 +1,48 @@
+[
+    {
+        "id": "C1",
+        "name": "/Health/Women's Health"
+    },
+    {
+        "id": "C2",
+        "name": "/People & Society/Family & Relationships/Family"
+    },
+    {
+        "id": "C3",
+        "name": "/Health/Reproductive Health"
+    },
+    {
+        "id": "D1",
+        "name": "/Pets & Animals"
+    },
+    {
+        "id": "D2",
+        "name": "/Pets & Animals/Animal Products & Services/Pet Food & Supplies"
+    },
+    {
+        "id": "D3",
+        "name": "/Pets & Animals/Animal Products & Services/Veterinarians"
+    },
+    {
+        "id": "D4",
+        "name": "/Pets & Animals/Pets"
+    },
+    {
+        "id": "D5",
+        "name": "/Pets & Animals/Pets/Dogs"
+    },
+    {
+        "id": "D6",
+        "name": "/Pets & Animals/Wildlife"
+    }, 
+    {
+        "id": "D7",
+        "name": "/Hobbies & Leisure"
+    },
+    {
+        "id": "CA1",
+        "name": "/Pets & Animals/Pets/Cats"
+    }
+
+
+]

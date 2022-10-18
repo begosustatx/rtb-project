@@ -1,0 +1,17 @@
+[
+    {
+        "id": "children",
+        "name": "children",
+        "categories": ["C1","C2", "C3"]
+    },
+    {
+        "id": "dog",
+        "name": "dog",
+        "categories": ["D1","D2", "D3", "D4","D5", "D6","D7"  ]
+    },
+    {
+        "id": "cat",
+        "name": "cat",
+        "categories": ["D1","D2", "D3", "D4","CA1", "D6", "D7" ]
+    }
+]

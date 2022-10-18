@@ -1,0 +1,97 @@
+[
+    {
+        "id": "d0489fc4-29ec-40c4-a0dc-b292f8230b5e",
+        "categories": [
+            "C1",
+            "C2",
+            "C3"
+        ],
+        "products": [
+            "children"
+        ],
+        "link": "https://www.happiestbaby.com/blogs/pregnancy/round-ligament-pain"
+    },
+    {
+        "id": "580252ea-87c0-4397-9e59-e26810800d6f",
+        "categories": [
+            "C1",
+            "C2",
+            "C3"
+        ],
+        "products": [
+            "children"
+        ],
+        "link": "https://magneticme.com/blogs/news/the-best-baby-blogs-every-mom-will-love"
+    },
+    {
+        "id": "ca554257-3991-4d6a-9b73-afd27524d1c8",
+        "categories": [
+            "C2"
+        ],
+        "products": [
+            "children"
+        ],
+        "link": "https://www.baby-chick.com/"
+    },
+    {
+        "id": "d30de5a5-ca90-4367-b753-cbf4f2ee8eea",
+        "categories": [
+            "C1",
+            "C2",
+            "C3"
+        ],
+        "products": [
+            "children"
+        ],
+        "link": "https://babyuniverset.dk/"
+    },
+    {
+        "id": "d4b7e0ab-60b4-4ea6-951b-4d7f43000dbf",
+        "categories": [
+            "C1",
+            "C2",
+            "C3"
+        ],
+        "products": [
+            "children"
+        ],
+        "link": "https://sleepingshouldbeeasy.com/"
+    },
+    {
+        "id": "9c160b50-a892-428d-b352-33e7bb72b181",
+        "categories": [
+            "C2"
+        ],
+        "products": [
+            "children"
+        ],
+        "link": "https://mrdad.com/"
+    },
+    {
+        "id": "5057976f-9029-4612-b16b-0f952d10180b",
+        "categories": [
+            "C2"
+        ],
+        "products": [
+            "children"
+        ],
+        "link": "https://messymotherhood.com/"
+    },
+    {
+        "id": "e71d4578-852e-416a-9df4-b0aa341249d6",
+        "categories": [
+            "C2"
+        ],
+        "products": [
+            "children"
+        ],
+        "link": "https://www.babyrabies.com/"
+    }, 
+    {"id":"7010f062-0580-4919-bf64-082ce3876386","categories":["D4"],"products":["dog"],"link":"https://www.thepetexpress.co.uk/blog/general-interest/6-of-the-best-pet-blogs/"},
+    {"id":"91c30e78-9c74-416a-9244-4e650ca51087","categories":["D4"],"products":["dog"],"link":"https://blogpaws.com/"},
+    {"id":"58fc9838-ddc4-423b-b82e-9f528e640f97","categories":["D1"],"products":["dog"],"link":"https://ohmydogblog.com/"},
+    {"id":"31a476c0-969c-46f8-ab93-0d91ab38a340","categories":["D5"],"products":["dog"],"link":"https://www.mypawsitivelypets.com/"},
+    {"id":"b7dbc03d-953d-4d29-b613-cb8dbce38e3b","categories":["D1"],"products":["dog"],"link":"https://pressplaypets.com/"},
+    {"id":"0319a313-2e4b-40ed-9251-f7b04f64941a","categories":["D5","D7"],"products":["dog"],"link":"https://www.dogingtonpost.com/"},
+    {"id":"3885afcc-2ccb-4c11-b159-888340cb624b","categories":["D5","D7"],"products":["dog"],"link":"https://petkeen.com/top-pet-blogs/"}
+]
