@@ -4,6 +4,7 @@ import categoriesDB from "./jsons/categories.json"
 import productsDB from "./jsons/products.json"
 import partnerDB from "./jsons/partners.json"
 import { v4 as uuid } from 'uuid';
+import Example from './components/main'
 export default function App() {
 
   const headersK = {
@@ -76,21 +77,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Enter the webpage you want to analyse</h2>
-      <input
-        type="text"
-        value={inputValue}
-        onChange={(e) => setInputValue(e.target.value)}
-      />
-      <button onClick={createPartner}>Search</button>
-      <input
-        type="text"
-        value={productId}
-        onChange={(e) => setProductId(e.target.value)}
-      />
-      <button onClick={getQuote}>UPDATE</button>
-      <button onClick={getCategories}>GET CATEGORIES</button>
+      <Example />
     </div>
   );
 }
