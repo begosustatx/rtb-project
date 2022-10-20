@@ -2,6 +2,8 @@ const express = require('express');
 var bodyParser = require('body-parser')
 const cors = require('cors');
 const connect = require("./connect");
+const categories_services = require("./services/categories_services");
+
 const app = express();
 
 
@@ -23,17 +25,12 @@ app.use(bodyParser.urlencoded({ extended: true }))
 app.use(cors({
     origin: 'http://localhost:3000'
 }));
-app.get("/test", function (req, res) {
-    // res.header("Access-Control-Allow-Origin", "*");
-    let categories = [
-        {
-            "name": "/TEEESE"
-        },
-    ];
-    // connect.insert(categories)
-    res.send("heeello");
+app.get("/categories", async function (req, res) {
+    const cat = await categories_services.getCategories();
+    res.send(cat);
 });
-app.post("/test", function (req, res) {
+app.post("/parnet", function (req, res) {
+    console.log("Boooody", req.body);
     res.send(req.body);
 });
 let port = process.env.PORT;

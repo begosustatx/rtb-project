@@ -17,26 +17,13 @@ async function run() {
         await client.close();
     }
 }
-async function insert(categories) {
+async function insert(data, collection) {
     try {
         await client.connect();
         console.log("Connected correctly to server");
         const db = client.db(dbName);
-
-        // Use the collection "people"
-        const col = db.collection("Categories");
-
-        // Construct a document                                                                                                                                                              
-
-
-        // Insert a single document, wait for promise so we can read it back
-        await col.insertMany(categories);
-        // Find one document
-        // const myDoc = await col.find();
-        // Print to the console
-        // console.log(myDoc);
-
-
+        const col = db.collection(collection);
+        await col.insertMany(data);
 
     } catch (err) {
         console.log(err.stack);

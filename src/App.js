@@ -51,9 +51,7 @@ export default function App() {
       "products": products,
       "link": inputValue
     }
-    const response = await axios.post("http://localhost:8000/test", {
-      url: "inputValue"
-    });
+    const response = await axios.post("http://localhost:8000/test", newPartner);
     console.log("response", response);
   }
 
@@ -68,6 +66,11 @@ export default function App() {
   }
   async function getQuote() {
     const response = await axios.get("http://localhost:8000/test");
+    console.log(response);
+  }
+
+  async function getCategories() {
+    const response = await axios.get("http://localhost:8000/categories");
     console.log(response);
   }
 
@@ -87,6 +90,7 @@ export default function App() {
         onChange={(e) => setProductId(e.target.value)}
       />
       <button onClick={getQuote}>UPDATE</button>
+      <button onClick={getCategories}>GET CATEGORIES</button>
     </div>
   );
 }
