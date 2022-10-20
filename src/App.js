@@ -6,7 +6,7 @@ import partnerDB from "./jsons/partners.json"
 import { v4 as uuid } from 'uuid';
 export default function App() {
 
-  const headers = {
+  const headersK = {
     'Accept': "application/json",
     "Content-Type": "application/json",
     'Authorization':
@@ -20,7 +20,7 @@ export default function App() {
   function sendPost() {
     axios.post("https://www.klazify.com/api/categorize", {
       url: inputValue
-    }, { headers }).then((response) => setCategories(response.data.domain.categories));
+    }, { headersK }).then((response) => setCategories(response.data.domain.categories));
     return categori.map(elem => elem.name);
   };
 
@@ -39,19 +39,22 @@ export default function App() {
     return (productIDs);
   }
 
-  function createPartner() {
-    const filtered = sendPost();
-    console.log('categories:', JSON.stringify(filtered));
-    // const filtered = [{"confidence":0.97,"name":"/People & Society/Family & Relationships/Family"},{"confidence":0.76,"name":"/Health/Reproductive Health"},{"confidence":0.73,"name":"/Health/Women's Health"}].map(elem => elem.name);
+  async function createPartner() {
+    //const filtered = sendPost();
+    //console.log('categories:', JSON.stringify(filtered));
+    const filtered = [{ "confidence": 0.97, "name": "/People & Society/Family & Relationships/Family" }, { "confidence": 0.76, "name": "/Health/Reproductive Health" }, { "confidence": 0.73, "name": "/Health/Women's Health" }].map(elem => elem.name);
     const categories = getCategories(filtered);
     const products = getProducts(categories);
     const unique_id = uuid();
     const newPartner = {
-      categories: categories,
-      products: products,
-      link: inputValue
+      "categories": categories,
+      "products": products,
+      "link": inputValue
     }
-    console.log(JSON.stringify(newPartner));
+    const response = await axios.post("http://localhost:8000/test", {
+      url: "inputValue"
+    });
+    console.log("response", response);
   }
 
   function updatePartners() {
