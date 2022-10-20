@@ -1,48 +1,68 @@
 [
     {
-        "id": "C1",
-        "name": "/Health/Women's Health"
+        "name": "/Autos & Vehicles"
     },
     {
-        "id": "C2",
-        "name": "/People & Society/Family & Relationships/Family"
+        "name": "/Beauty & Fitness"
     },
     {
-        "id": "C3",
-        "name": "/Health/Reproductive Health"
+        "name": "/Books & Literature"
     },
     {
-        "id": "D1",
+        "name": "/Business & Industrial"
+    },
+    {
+        "name": "/Computers & Electronics"
+    },
+    {
+        "name": "/Food & Drink"
+    },
+    {
+        "name": "/Games"
+    },
+    {
+        "name": "/Health"
+    },
+    {
+        "name": "/Home & Garden"
+    },
+    {
+        "name": "/Internet & Telecom"
+    },
+    {
+        "name": "/Jobs & Education"
+    },
+    {
+        "name": "/Law & Government"
+    },
+    {
+        "name": "/News"
+    },
+    {
+        "name": "/Online Communities"
+    },
+    {
+        "name": "/People & Society"
+    },
+    {
         "name": "/Pets & Animals"
     },
     {
-        "id": "D2",
-        "name": "/Pets & Animals/Animal Products & Services/Pet Food & Supplies"
+        "name": "/Real Estate"
     },
     {
-        "id": "D3",
-        "name": "/Pets & Animals/Animal Products & Services/Veterinarians"
+        "name": "/Reference"
     },
     {
-        "id": "D4",
-        "name": "/Pets & Animals/Pets"
+        "name": "/Science"
     },
     {
-        "id": "D5",
-        "name": "/Pets & Animals/Pets/Dogs"
+        "name": "/Shopping"
     },
     {
-        "id": "D6",
-        "name": "/Pets & Animals/Wildlife"
-    }, 
-    {
-        "id": "D7",
-        "name": "/Hobbies & Leisure"
+        "name": "/Sports"
     },
     {
-        "id": "CA1",
-        "name": "/Pets & Animals/Pets/Cats"
+        "name": "/Travel"
     }
-
-
 ]
