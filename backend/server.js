@@ -3,7 +3,7 @@ var bodyParser = require('body-parser')
 const cors = require('cors');
 const connect = require("./connect");
 const categories_services = require("./services/categories_services");
-
+const partner_services = require("./services/partners_service");
 const app = express();
 
 
@@ -26,11 +26,12 @@ app.use(cors({
     origin: 'http://localhost:3000'
 }));
 app.get("/categories", async function (req, res) {
-    const cat = await categories_services.getCategories();
-    res.send(cat);
+    console.log("server categories");
+    await categories_services.getCategories();
+    res.send(req);
 });
-app.post("/parnet", function (req, res) {
-    console.log("Boooody", req.body);
+app.post("/partner", function (req, res) {
+    partner_services.addPartner(req.body);
     res.send(req.body);
 });
 let port = process.env.PORT;

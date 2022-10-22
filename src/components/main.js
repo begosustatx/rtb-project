@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
-
+import Partner from './partner'
 const user = {
     name: 'Tom Cook',
     email: 'tom@example.com',
@@ -191,20 +191,7 @@ export default function Example() {
                 </header>
                 <main>
                     <div className="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
-                        {/* Replace with your content */}
-                        <button
-                            type="button"
-                            className="inline-flex items-center rounded-md border border-transparent bg-indigo-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
-                        >
-                            Add partner
-                        </button>
-                        <button
-                            type="button"
-                            className="inline-flex items-center rounded-md border border-transparent bg-indigo-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
-                        >
-                            Add product
-                        </button>
-                        {/* /End replace */}
+                        <Partner/>
                     </div>
                 </main>
             </div>

@@ -65,10 +65,6 @@ export default function App() {
     })
     console.log(partnerDB);
   }
-  async function getQuote() {
-    const response = await axios.get("http://localhost:8000/test");
-    console.log(response);
-  }
 
   async function getCategories() {
     const response = await axios.get("http://localhost:8000/categories");
