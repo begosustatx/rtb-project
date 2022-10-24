@@ -27,11 +27,11 @@ app.use(cors({
 }));
 app.get("/categories", async function (req, res) {
     console.log("server categories");
-    await categories_services.getCategories();
+    await categories_services.addCategories();
     res.send(req);
 });
-app.post("/partner", function (req, res) {
-    partner_services.addPartner(req.body);
+app.post("/partner", async function (req, res) {
+    await partner_services.addPartner(req.body);
     res.send(req.body);
 });
 let port = process.env.PORT;

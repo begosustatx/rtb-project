@@ -6,7 +6,7 @@ const { MongoClient } = require("mongodb");
 const url = "mongodb+srv://begosustatx:250297bst@cluster0.x1oy8rm.mongodb.net/?retryWrites=true&w=majority";
 const client = new MongoClient(url);
 const dbName = "Affiliate";
-const colName = "Categories";
+const colName = "Partners";
 
 const headers = {
     'Accept': "application/json",
@@ -16,22 +16,27 @@ const headers = {
   };
 async function sendPost(url){
     console.log(url)
-    const response = await axios.post("https://www.klazify.com/api/categorize", url, { headers })
+    // const response = await axios.post("https://www.klazify.com/api/categorize", url, { headers })
     //return response.data.domain.categories.map(elem => elem.name);
     return [
-        '/People & Society/Family & Relationships/Family',
-        '/Health/Reproductive Health',
-        "/Health/Women's Health"
+        '/Arts & Entertainment',
+        '/Arts & Entertainment/Celebrities & Entertainment News',
       ]
 };
 async function addPartner(url) {
     const categories = await sendPost(url);
-    const cleanCat = categories.map(cat => cat.substring(
-        cat.indexOf("/") , 
-        cat.indexOf("/")
-        )
-    );
-    console.log("categories:", cleanCat);
+    await client.connect();
+    var dbo = client.db(dbName);
+    const ids =  await Promise.all(categories.map(async(cat) =>{
+       const catObj =await dbo.collection("Categories").find({name: cat}).toArray()
+       return catObj[0]._id;
+    }));
+    const newPartner = {
+        url,
+        categories: ids, 
+    }
+    await dbo.collection(colName).insertOne(newPartner);
+    client.close();
 }
 
 

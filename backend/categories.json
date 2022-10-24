@@ -247,5 +247,1613 @@
     },
     {
      "name": "/Autos & Vehicles/Vehicle Shows"
+    },
+    {
+     "name": "/Beauty & Fitness"
+    },
+    {
+     "name": "/Beauty & Fitness/Beauty Pageants"
+    },
+    {
+     "name": "/Beauty & Fitness/Body Art"
+    },
+    {
+     "name": "/Beauty & Fitness/Cosmetic Procedures"
+    },
+    {
+     "name": "/Beauty & Fitness/Cosmetic Procedures/Cosmetic Surgery"
+    },
+    {
+     "name": "/Beauty & Fitness/Cosmetology & Beauty Professionals"
+    },
+    {
+     "name": "/Beauty & Fitness/Face & Body Care"
+    },
+    {
+     "name": "/Beauty & Fitness/Face & Body Care/Hygiene & Toiletries"
+    },
+    {
+     "name": "/Beauty & Fitness/Face & Body Care/Make-Up & Cosmetics"
+    },
+    {
+     "name": "/Beauty & Fitness/Face & Body Care/Perfumes & Fragrances"
+    },
+    {
+     "name": "/Beauty & Fitness/Face & Body Care/Skin & Nail Care"
+    },
+    {
+     "name": "/Beauty & Fitness/Face & Body Care/Unwanted Body & Facial Hair Removal"
+    },
+    {
+     "name": "/Beauty & Fitness/Fashion & Style"
+    },
+    {
+     "name": "/Beauty & Fitness/Fashion & Style/Fashion Designers & Collections"
+    },
+    {
+     "name": "/Beauty & Fitness/Fitness"
+    },
+    {
+     "name": "/Beauty & Fitness/Hair Care"
+    },
+    {
+     "name": "/Beauty & Fitness/Hair Care/Hair Loss"
+    },
+    {
+     "name": "/Beauty & Fitness/Spas & Beauty Services"
+    },
+    {
+     "name": "/Beauty & Fitness/Spas & Beauty Services/Massage Therapy"
+    },
+    {
+     "name": "/Beauty & Fitness/Weight Loss"
+    },
+    {
+     "name": "/Books & Literature"
+    },
+    {
+     "name": "/Books & Literature/Children's Literature"
+    },
+    {
+     "name": "/Books & Literature/E-Books"
+    },
+    {
+     "name": "/Books & Literature/Fan Fiction"
+    },
+    {
+     "name": "/Books & Literature/Literary Classics"
+    },
+    {
+     "name": "/Books & Literature/Poetry"
+    },
+    {
+     "name": "/Books & Literature/Writers Resources"
+    },
+    {
+     "name": "/Business & Industrial"
+    },
+    {
+     "name": "/Business & Industrial/Advertising & Marketing/Public Relations"
+    },
+    {
+     "name": "/Business & Industrial/Aerospace & Defense/Space Technology"
+    },
+    {
+     "name": "/Business & Industrial/Agriculture & Forestry"
+    },
+    {
+     "name": "/Business & Industrial/Agriculture & Forestry/Agricultural Equipment"
+    },
+    {
+     "name": "/Business & Industrial/Agriculture & Forestry/Forestry"
+    },
+    {
+     "name": "/Business & Industrial/Agriculture & Forestry/Livestock"
+    },
+    {
+     "name": "/Business & Industrial/Automotive Industry"
+    },
+    {
+     "name": "/Business & Industrial/Business Education"
+    },
+    {
+     "name": "/Business & Industrial/Business Finance"
+    },
+    {
+     "name": "/Business & Industrial/Business Finance/Venture Capital"
+    },
+    {
+     "name": "/Business & Industrial/Business Operations"
+    },
+    {
+     "name": "/Business & Industrial/Business Operations/Business Plans & Presentations"
+    },
+    {
+     "name": "/Business & Industrial/Business Operations/Management"
+    },
+    {
+     "name": "/Business & Industrial/Business Services"
+    },
+    {
+     "name": "/Business & Industrial/Business Services/Consulting"
+    },
+    {
+     "name": "/Business & Industrial/Business Services/Corporate Events"
+    },
+    {
+     "name": "/Business & Industrial/Business Services/E-Commerce Services"
+    },
+    {
+     "name": "/Business & Industrial/Business Services/Fire & Security Services"
+    },
+    {
+     "name": "/Business & Industrial/Business Services/Office Services"
+    },
+    {
+     "name": "/Business & Industrial/Business Services/Office Supplies"
+    },
+    {
+     "name": "/Business & Industrial/Business Services/Writing & Editing Services"
+    },
+    {
+     "name": "/Business & Industrial/Chemicals Industry"
+    },
+    {
+     "name": "/Business & Industrial/Chemicals Industry/Cleaning Agents"
+    },
+    {
+     "name": "/Business & Industrial/Chemicals Industry/Plastics & Polymers"
+    },
+    {
+     "name": "/Business & Industrial/Construction & Maintenance"
+    },
+    {
+     "name": "/Business & Industrial/Construction & Maintenance/Building Materials & Supplies"
+    },
+    {
+     "name": "/Business & Industrial/Energy & Utilities"
+    },
+    {
+     "name": "/Business & Industrial/Energy & Utilities/Electricity"
+    },
+    {
+     "name": "/Business & Industrial/Energy & Utilities/Oil & Gas"
+    },
+    {
+     "name": "/Business & Industrial/Energy & Utilities/Renewable & Alternative Energy"
+    },
+    {
+     "name": "/Business & Industrial/Hospitality Industry"
+    },
+    {
+     "name": "/Business & Industrial/Hospitality Industry/Event Planning"
+    },
+    {
+     "name": "/Business & Industrial/Hospitality Industry/Food Service"
+    },
+    {
+     "name": "/Business & Industrial/Industrial Materials & Equipment"
+    },
+    {
+     "name": "/Business & Industrial/Industrial Materials & Equipment/Heavy Machinery"
+    },
+    {
+     "name": "/Business & Industrial/Manufacturing"
+    },
+    {
+     "name": "/Business & Industrial/Metals & Mining"
+    },
+    {
+     "name": "/Business & Industrial/Metals & Mining/Precious Metals"
+    },
+    {
+     "name": "/Business & Industrial/Pharmaceuticals & Biotech"
+    },
+    {
+     "name": "/Business & Industrial/Printing & Publishing"
+    },
+    {
+     "name": "/Business & Industrial/Retail Trade"
+    },
+    {
+     "name": "/Business & Industrial/Retail Trade/Retail Equipment & Technology"
+    },
+    {
+     "name": "/Business & Industrial/Small Business/MLM & Business Opportunities"
+    },
+    {
+     "name": "/Business & Industrial/Textiles & Nonwovens"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics/Freight & Trucking"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics/Mail & Package Delivery"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics/Maritime Transport"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics/Moving & Relocation"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics/Packaging"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics/Parking"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics/Rail Transport"
+    },
+    {
+     "name": "/Business & Industrial/Transportation & Logistics/Urban Transport"
+    },
+    {
+     "name": "/Computers & Electronics"
+    },
+    {
+     "name": "/Computers & Electronics/CAD & CAM"
+    },
+    {
+     "name": "/Computers & Electronics/Computer Hardware"
+    },
+    {
+     "name": "/Computers & Electronics/Computer Hardware/Computer Components"
+    },
+    {
+     "name": "/Computers & Electronics/Computer Hardware/Computer Drives & Storage"
+    },
+    {
+     "name": "/Computers & Electronics/Computer Hardware/Computer Peripherals"
+    },
+    {
+     "name": "/Computers & Electronics/Computer Hardware/Desktop Computers"
+    },
+    {
+     "name": "/Computers & Electronics/Computer Hardware/Laptops & Notebooks"
+    },
+    {
+     "name": "/Computers & Electronics/Computer Security"
+    },
+    {
+     "name": "/Computers & Electronics/Computer Security/Hacking & Cracking"
+    },
+    {
+     "name": "/Computers & Electronics/Consumer Electronics"
+    },
+    {
+     "name": "/Computers & Electronics/Consumer Electronics/Audio Equipment"
+    },
+    {
+     "name": "/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment"
+    },
+    {
+     "name": "/Computers & Electronics/Consumer Electronics/Car Electronics"
+    },
+    {
+     "name": "/Computers & Electronics/Consumer Electronics/Drones & RC Aircraft"
+    },
+    {
+     "name": "/Computers & Electronics/Consumer Electronics/Game Systems & Consoles"
+    },
+    {
+     "name": "/Computers & Electronics/Consumer Electronics/GPS & Navigation"
+    },
+    {
+     "name": "/Computers & Electronics/Consumer Electronics/TV & Video Equipment"
+    },
+    {
+     "name": "/Computers & Electronics/Electronics & Electrical"
+    },
+    {
+     "name": "/Computers & Electronics/Electronics & Electrical/Electronic Components"
+    },
+    {
+     "name": "/Computers & Electronics/Electronics & Electrical/Power Supplies"
+    },
+    {
+     "name": "/Computers & Electronics/Enterprise Technology"
+    },
+    {
+     "name": "/Computers & Electronics/Enterprise Technology/Data Management"
+    },
+    {
+     "name": "/Computers & Electronics/Networking"
+    },
+    {
+     "name": "/Computers & Electronics/Networking/Data Formats & Protocols"
+    },
+    {
+     "name": "/Computers & Electronics/Networking/Network Monitoring & Management"
+    },
+    {
+     "name": "/Computers & Electronics/Networking/VPN & Remote Access"
+    },
+    {
+     "name": "/Computers & Electronics/Programming"
+    },
+    {
+     "name": "/Computers & Electronics/Programming/Java (Programming Language)"
+    },
+    {
+     "name": "/Computers & Electronics/Software"
+    },
+    {
+     "name": "/Computers & Electronics/Software/Business & Productivity Software"
+    },
+    {
+     "name": "/Computers & Electronics/Software/Device Drivers"
+    },
+    {
+     "name": "/Computers & Electronics/Software/Internet Software"
+    },
+    {
+     "name": "/Computers & Electronics/Software/Multimedia Software"
+    },
+    {
+     "name": "/Computers & Electronics/Software/Operating Systems"
+    },
+    {
+     "name": "/Computers & Electronics/Software/Software Utilities"
+    },
+    {
+     "name": "/Finance"
+    },
+    {
+     "name": "/Finance/Accounting & Auditing"
+    },
+    {
+     "name": "/Finance/Accounting & Auditing/Billing & Invoicing"
+    },
+    {
+     "name": "/Finance/Accounting & Auditing/Tax Preparation & Planning"
+    },
+    {
+     "name": "/Finance/Banking"
+    },
+    {
+     "name": "/Finance/Credit & Lending"
+    },
+    {
+     "name": "/Finance/Credit & Lending/Credit Cards"
+    },
+    {
+     "name": "/Finance/Credit & Lending/Credit Reporting & Monitoring"
+    },
+    {
+     "name": "/Finance/Credit & Lending/Loans"
+    },
+    {
+     "name": "/Finance/Financial Planning & Management"
+    },
+    {
+     "name": "/Finance/Financial Planning & Management/Retirement & Pension"
+    },
+    {
+     "name": "/Finance/Grants, Scholarships & Financial Aid"
+    },
+    {
+     "name": "/Finance/Grants, Scholarships & Financial Aid/Study Grants & Scholarships"
+    },
+    {
+     "name": "/Finance/Insurance"
+    },
+    {
+     "name": "/Finance/Insurance/Health Insurance"
+    },
+    {
+     "name": "/Finance/Investing"
+    },
+    {
+     "name": "/Finance/Investing/Commodities & Futures Trading"
+    },
+    {
+     "name": "/Finance/Investing/Currencies & Foreign Exchange"
+    },
+    {
+     "name": "/Finance/Investing/Stocks & Bonds"
+    },
+    {
+     "name": "/Food & Drink"
+    },
+    {
+     "name": "/Food & Drink/Beverages"
+    },
+    {
+     "name": "/Food & Drink/Beverages/Alcoholic Beverages"
+    },
+    {
+     "name": "/Food & Drink/Beverages/Coffee & Tea"
+    },
+    {
+     "name": "/Food & Drink/Beverages/Juice"
+    },
+    {
+     "name": "/Food & Drink/Beverages/Soft Drinks"
+    },
+    {
+     "name": "/Food & Drink/Cooking & Recipes"
+    },
+    {
+     "name": "/Food & Drink/Cooking & Recipes/BBQ & Grilling"
+    },
+    {
+     "name": "/Food & Drink/Cooking & Recipes/Desserts"
+    },
+    {
+     "name": "/Food & Drink/Cooking & Recipes/Soups & Stews"
+    },
+    {
+     "name": "/Food & Drink/Food"
+    },
+    {
+     "name": "/Food & Drink/Food & Grocery Retailers"
+    },
+    {
+     "name": "/Food & Drink/Food/Baked Goods"
+    },
+    {
+     "name": "/Food & Drink/Food/Breakfast Foods"
+    },
+    {
+     "name": "/Food & Drink/Food/Candy & Sweets"
+    },
+    {
+     "name": "/Food & Drink/Food/Grains & Pasta"
+    },
+    {
+     "name": "/Food & Drink/Food/Meat & Seafood"
+    },
+    {
+     "name": "/Food & Drink/Food/Snack Foods"
+    },
+    {
+     "name": "/Food & Drink/Restaurants"
+    },
+    {
+     "name": "/Food & Drink/Restaurants/Fast Food"
+    },
+    {
+     "name": "/Food & Drink/Restaurants/Pizzerias"
+    },
+    {
+     "name": "/Food & Drink/Restaurants/Restaurant Reviews & Reservations"
+    },
+    {
+     "name": "/Games"
+    },
+    {
+     "name": "/Games/Arcade & Coin-Op Games"
+    },
+    {
+     "name": "/Games/Board Games"
+    },
+    {
+     "name": "/Games/Board Games/Chess & Abstract Strategy Games"
+    },
+    {
+     "name": "/Games/Board Games/Miniatures & Wargaming"
+    },
+    {
+     "name": "/Games/Card Games"
+    },
+    {
+     "name": "/Games/Card Games/Collectible Card Games"
+    },
+    {
+     "name": "/Games/Card Games/Poker & Casino Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Casual Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Driving & Racing Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Fighting Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Music & Dance Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Sandbox Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Shooter Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Simulation Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Sports Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Strategy Games"
+    },
+    {
+     "name": "/Games/Computer & Video Games/Video Game Emulation"
+    },
+    {
+     "name": "/Games/Family-Oriented Games & Activities"
+    },
+    {
+     "name": "/Games/Family-Oriented Games & Activities/Drawing & Coloring"
+    },
+    {
+     "name": "/Games/Family-Oriented Games & Activities/Dress-Up & Fashion Games"
+    },
+    {
+     "name": "/Games/Gambling"
+    },
+    {
+     "name": "/Games/Gambling/Lottery"
+    },
+    {
+     "name": "/Games/Online Games/Massively Multiplayer Games"
+    },
+    {
+     "name": "/Games/Puzzles & Brainteasers"
+    },
+    {
+     "name": "/Games/Roleplaying Games"
+    },
+    {
+     "name": "/Games/Table Games"
+    },
+    {
+     "name": "/Games/Table Games/Billiards"
+    },
+    {
+     "name": "/Games/Word Games"
+    },
+    {
+     "name": "/Health"
+    },
+    {
+     "name": "/Health/Aging & Geriatrics"
+    },
+    {
+     "name": "/Health/Health Conditions"
+    },
+    {
+     "name": "/Health/Health Conditions/AIDS & HIV"
+    },
+    {
+     "name": "/Health/Health Conditions/Allergies"
+    },
+    {
+     "name": "/Health/Health Conditions/Arthritis"
+    },
+    {
+     "name": "/Health/Health Conditions/Cancer"
+    },
+    {
+     "name": "/Health/Health Conditions/Diabetes"
+    },
+    {
+     "name": "/Health/Health Conditions/Ear Nose & Throat"
+    },
+    {
+     "name": "/Health/Health Conditions/Eating Disorders"
+    },
+    {
+     "name": "/Health/Health Conditions/Endocrine Conditions"
+    },
+    {
+     "name": "/Health/Health Conditions/Genetic Disorders"
+    },
+    {
+     "name": "/Health/Health Conditions/Heart & Hypertension"
+    },
+    {
+     "name": "/Health/Health Conditions/Infectious Diseases"
+    },
+    {
+     "name": "/Health/Health Conditions/Neurological Conditions"
+    },
+    {
+     "name": "/Health/Health Conditions/Obesity"
+    },
+    {
+     "name": "/Health/Health Conditions/Pain Management"
+    },
+    {
+     "name": "/Health/Health Conditions/Respiratory Conditions"
+    },
+    {
+     "name": "/Health/Health Conditions/Skin Conditions"
+    },
+    {
+     "name": "/Health/Health Conditions/Sleep Disorders"
+    },
+    {
+     "name": "/Health/Health Education & Medical Training"
+    },
+    {
+     "name": "/Health/Health Foundations & Medical Research"
+    },
+    {
+     "name": "/Health/Medical Devices & Equipment"
+    },
+    {
+     "name": "/Health/Medical Facilities & Services"
+    },
+    {
+     "name": "/Health/Medical Facilities & Services/Doctors' Offices"
+    },
+    {
+     "name": "/Health/Medical Facilities & Services/Hospitals & Treatment Centers"
+    },
+    {
+     "name": "/Health/Medical Facilities & Services/Medical Procedures"
+    },
+    {
+     "name": "/Health/Medical Facilities & Services/Physical Therapy"
+    },
+    {
+     "name": "/Health/Men's Health"
+    },
+    {
+     "name": "/Health/Mental Health"
+    },
+    {
+     "name": "/Health/Mental Health/Anxiety & Stress"
+    },
+    {
+     "name": "/Health/Mental Health/Depression"
+    },
+    {
+     "name": "/Health/Nursing"
+    },
+    {
+     "name": "/Health/Nursing/Assisted Living & Long Term Care"
+    },
+    {
+     "name": "/Health/Nutrition"
+    },
+    {
+     "name": "/Health/Nutrition/Special & Restricted Diets"
+    },
+    {
+     "name": "/Health/Nutrition/Vitamins & Supplements"
+    },
+    {
+     "name": "/Health/Oral & Dental Care"
+    },
+    {
+     "name": "/Health/Pharmacy"
+    },
+    {
+     "name": "/Health/Pharmacy/Drugs & Medications"
+    },
+    {
+     "name": "/Health/Public Health"
+    },
+    {
+     "name": "/Health/Public Health/Occupational Health & Safety"
+    },
+    {
+     "name": "/Health/Reproductive Health"
+    },
+    {
+     "name": "/Health/Substance Abuse"
+    },
+    {
+     "name": "/Health/Substance Abuse/Drug & Alcohol Testing"
+    },
+    {
+     "name": "/Health/Substance Abuse/Drug & Alcohol Treatment"
+    },
+    {
+     "name": "/Health/Substance Abuse/Smoking & Smoking Cessation"
+    },
+    {
+     "name": "/Health/Substance Abuse/Steroids & Performance-Enhancing Drugs"
+    },
+    {
+     "name": "/Health/Vision Care"
+    },
+    {
+     "name": "/Health/Vision Care/Eyeglasses & Contacts"
+    },
+    {
+     "name": "/Health/Women's Health"
+    },
+    {
+     "name": "/Hobbies & Leisure"
+    },
+    {
+     "name": "/Hobbies & Leisure/Clubs & Organizations"
+    },
+    {
+     "name": "/Hobbies & Leisure/Clubs & Organizations/Youth Organizations & Resources"
+    },
+    {
+     "name": "/Hobbies & Leisure/Crafts"
+    },
+    {
+     "name": "/Hobbies & Leisure/Crafts/Fiber & Textile Arts"
+    },
+    {
+     "name": "/Hobbies & Leisure/Merit Prizes & Contests"
+    },
+    {
+     "name": "/Hobbies & Leisure/Outdoors"
+    },
+    {
+     "name": "/Hobbies & Leisure/Outdoors/Fishing"
+    },
+    {
+     "name": "/Hobbies & Leisure/Outdoors/Hiking & Camping"
+    },
+    {
+     "name": "/Hobbies & Leisure/Paintball"
+    },
+    {
+     "name": "/Hobbies & Leisure/Radio Control & Modeling"
+    },
+    {
+     "name": "/Hobbies & Leisure/Radio Control & Modeling/Model Trains & Railroads"
+    },
+    {
+     "name": "/Hobbies & Leisure/Special Occasions"
+    },
+    {
+     "name": "/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events"
+    },
+    {
+     "name": "/Hobbies & Leisure/Special Occasions/Weddings"
+    },
+    {
+     "name": "/Hobbies & Leisure/Water Activities"
+    },
+    {
+     "name": "/Hobbies & Leisure/Water Activities/Boating"
+    },
+    {
+     "name": "/Hobbies & Leisure/Water Activities/Surf & Swim"
+    },
+    {
+     "name": "/Home & Garden"
+    },
+    {
+     "name": "/Home & Garden/Bed & Bath"
+    },
+    {
+     "name": "/Home & Garden/Bed & Bath/Bathroom"
+    },
+    {
+     "name": "/Home & Garden/Domestic Services"
+    },
+    {
+     "name": "/Home & Garden/Domestic Services/Cleaning Services"
+    },
+    {
+     "name": "/Home & Garden/Gardening & Landscaping"
+    },
+    {
+     "name": "/Home & Garden/Home & Interior Decor"
+    },
+    {
+     "name": "/Home & Garden/Home Appliances"
+    },
+    {
+     "name": "/Home & Garden/Home Furnishings"
+    },
+    {
+     "name": "/Home & Garden/Home Furnishings/Curtains & Window Treatments"
+    },
+    {
+     "name": "/Home & Garden/Home Furnishings/Kitchen & Dining Furniture"
+    },
+    {
+     "name": "/Home & Garden/Home Furnishings/Lamps & Lighting"
+    },
+    {
+     "name": "/Home & Garden/Home Furnishings/Living Room Furniture"
+    },
+    {
+     "name": "/Home & Garden/Home Furnishings/Rugs & Carpets"
+    },
+    {
+     "name": "/Home & Garden/Home Improvement"
+    },
+    {
+     "name": "/Home & Garden/Home Improvement/Construction & Power Tools"
+    },
+    {
+     "name": "/Home & Garden/Home Improvement/Doors & Windows"
+    },
+    {
+     "name": "/Home & Garden/Home Improvement/Flooring"
+    },
+    {
+     "name": "/Home & Garden/Home Improvement/House Painting & Finishing"
+    },
+    {
+     "name": "/Home & Garden/Home Improvement/Plumbing"
+    },
+    {
+     "name": "/Home & Garden/Home Safety & Security"
+    },
+    {
+     "name": "/Home & Garden/Home Storage & Shelving"
+    },
+    {
+     "name": "/Home & Garden/Home Swimming Pools, Saunas & Spas"
+    },
+    {
+     "name": "/Home & Garden/HVAC & Climate Control"
+    },
+    {
+     "name": "/Home & Garden/HVAC & Climate Control/Fireplaces & Stoves"
+    },
+    {
+     "name": "/Home & Garden/Kitchen & Dining"
+    },
+    {
+     "name": "/Home & Garden/Kitchen & Dining/Cookware & Diningware"
+    },
+    {
+     "name": "/Home & Garden/Kitchen & Dining/Major Kitchen Appliances"
+    },
+    {
+     "name": "/Home & Garden/Kitchen & Dining/Small Kitchen Appliances"
+    },
+    {
+     "name": "/Home & Garden/Laundry"
+    },
+    {
+     "name": "/Home & Garden/Laundry/Washers & Dryers"
+    },
+    {
+     "name": "/Home & Garden/Nursery & Playroom"
+    },
+    {
+     "name": "/Home & Garden/Pest Control"
+    },
+    {
+     "name": "/Home & Garden/Yard & Patio"
+    },
+    {
+     "name": "/Home & Garden/Yard & Patio/Lawn Mowers"
+    },
+    {
+     "name": "/Internet & Telecom"
+    },
+    {
+     "name": "/Internet & Telecom/Communications Equipment"
+    },
+    {
+     "name": "/Internet & Telecom/Communications Equipment/Radio Equipment"
+    },
+    {
+     "name": "/Internet & Telecom/Email & Messaging"
+    },
+    {
+     "name": "/Internet & Telecom/Email & Messaging/Text & Instant Messaging"
+    },
+    {
+     "name": "/Internet & Telecom/Email & Messaging/Voice & Video Chat"
+    },
+    {
+     "name": "/Internet & Telecom/Mobile & Wireless"
+    },
+    {
+     "name": "/Internet & Telecom/Mobile & Wireless/Mobile & Wireless Accessories"
+    },
+    {
+     "name": "/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons"
+    },
+    {
+     "name": "/Internet & Telecom/Mobile & Wireless/Mobile Phones"
+    },
+    {
+     "name": "/Internet & Telecom/Service Providers"
+    },
+    {
+     "name": "/Internet & Telecom/Service Providers/Cable & Satellite Providers"
+    },
+    {
+     "name": "/Internet & Telecom/Web Services"
+    },
+    {
+     "name": "/Internet & Telecom/Web Services/Affiliate Programs"
+    },
+    {
+     "name": "/Internet & Telecom/Web Services/Web Design & Development"
+    },
+    {
+     "name": "/Jobs & Education"
+    },
+    {
+     "name": "/Jobs & Education/Education"
+    },
+    {
+     "name": "/Jobs & Education/Education/Colleges & Universities"
+    },
+    {
+     "name": "/Jobs & Education/Education/Distance Learning"
+    },
+    {
+     "name": "/Jobs & Education/Education/Homeschooling"
+    },
+    {
+     "name": "/Jobs & Education/Education/Primary & Secondary Schooling (K-12)"
+    },
+    {
+     "name": "/Jobs & Education/Education/Standardized & Admissions Tests"
+    },
+    {
+     "name": "/Jobs & Education/Education/Teaching & Classroom Resources"
+    },
+    {
+     "name": "/Jobs & Education/Education/Training & Certification"
+    },
+    {
+     "name": "/Jobs & Education/Education/Vocational & Continuing Education"
+    },
+    {
+     "name": "/Jobs & Education/Jobs"
+    },
+    {
+     "name": "/Jobs & Education/Jobs/Career Resources & Planning"
+    },
+    {
+     "name": "/Jobs & Education/Jobs/Job Listings"
+    },
+    {
+     "name": "/Jobs & Education/Jobs/Resumes & Portfolios"
+    },
+    {
+     "name": "/Law & Government"
+    },
+    {
+     "name": "/Law & Government/Government"
+    },
+    {
+     "name": "/Law & Government/Government/Courts & Judiciary"
+    },
+    {
+     "name": "/Law & Government/Government/Visa & Immigration"
+    },
+    {
+     "name": "/Law & Government/Legal"
+    },
+    {
+     "name": "/Law & Government/Legal/Bankruptcy"
+    },
+    {
+     "name": "/Law & Government/Legal/Legal Education"
+    },
+    {
+     "name": "/Law & Government/Legal/Legal Services"
+    },
+    {
+     "name": "/Law & Government/Military"
+    },
+    {
+     "name": "/Law & Government/Public Safety"
+    },
+    {
+     "name": "/Law & Government/Public Safety/Crime & Justice"
+    },
+    {
+     "name": "/Law & Government/Public Safety/Emergency Services"
+    },
+    {
+     "name": "/Law & Government/Public Safety/Law Enforcement"
+    },
+    {
+     "name": "/Law & Government/Public Safety/Security Products & Services"
+    },
+    {
+     "name": "/Law & Government/Social Services"
+    },
+    {
+     "name": "/News"
+    },
+    {
+     "name": "/News/Business News"
+    },
+    {
+     "name": "/News/Business News/Company News"
+    },
+    {
+     "name": "/News/Business News/Financial Markets News"
+    },
+    {
+     "name": "/News/Gossip & Tabloid News/Scandals & Investigations"
+    },
+    {
+     "name": "/News/Health News"
+    },
+    {
+     "name": "/News/Politics"
+    },
+    {
+     "name": "/News/Sports News"
+    },
+    {
+     "name": "/News/Weather"
+    },
+    {
+     "name": "/Online Communities"
+    },
+    {
+     "name": "/Online Communities/Blogging Resources & Services"
+    },
+    {
+     "name": "/Online Communities/Dating & Personals"
+    },
+    {
+     "name": "/Online Communities/Dating & Personals/Matrimonial Services"
+    },
+    {
+     "name": "/Online Communities/Dating & Personals/Personals"
+    },
+    {
+     "name": "/Online Communities/Dating & Personals/Photo Rating Sites"
+    },
+    {
+     "name": "/Online Communities/File Sharing & Hosting"
+    },
+    {
+     "name": "/Online Communities/Online Goodies"
+    },
+    {
+     "name": "/Online Communities/Online Goodies/Clip Art & Animated GIFs"
+    },
+    {
+     "name": "/Online Communities/Online Goodies/Skins, Themes & Wallpapers"
+    },
+    {
+     "name": "/Online Communities/Online Goodies/Social Network Apps & Add-Ons"
+    },
+    {
+     "name": "/Online Communities/Photo & Video Sharing"
+    },
+    {
+     "name": "/Online Communities/Photo & Video Sharing/Photo & Image Sharing"
+    },
+    {
+     "name": "/Online Communities/Social Networks"
+    },
+    {
+     "name": "/Online Communities/Virtual Worlds"
+    },
+    {
+     "name": "/People & Society"
+    },
+    {
+     "name": "/People & Society/Family & Relationships"
+    },
+    {
+     "name": "/People & Society/Family & Relationships/Family"
+    },
+    {
+     "name": "/People & Society/Family & Relationships/Marriage"
+    },
+    {
+     "name": "/People & Society/Family & Relationships/Troubled Relationships"
+    },
+    {
+     "name": "/People & Society/Kids & Teens"
+    },
+    {
+     "name": "/People & Society/Kids & Teens/Children's Interests"
+    },
+    {
+     "name": "/People & Society/Kids & Teens/Teen Interests"
+    },
+    {
+     "name": "/People & Society/Religion & Belief"
+    },
+    {
+     "name": "/People & Society/Seniors & Retirement"
+    },
+    {
+     "name": "/People & Society/Social Issues & Advocacy"
+    },
+    {
+     "name": "/People & Society/Social Issues & Advocacy/Charity & Philanthropy"
+    },
+    {
+     "name": "/People & Society/Social Issues & Advocacy/Discrimination & Identity Relations"
+    },
+    {
+     "name": "/People & Society/Social Issues & Advocacy/Green Living & Environmental Issues"
+    },
+    {
+     "name": "/People & Society/Social Issues & Advocacy/Human Rights & Liberties"
+    },
+    {
+     "name": "/People & Society/Social Issues & Advocacy/Poverty & Hunger"
+    },
+    {
+     "name": "/People & Society/Social Issues & Advocacy/Work & Labor Issues"
+    },
+    {
+     "name": "/People & Society/Social Sciences"
+    },
+    {
+     "name": "/People & Society/Social Sciences/Economics"
+    },
+    {
+     "name": "/People & Society/Social Sciences/Political Science"
+    },
+    {
+     "name": "/People & Society/Social Sciences/Psychology"
+    },
+    {
+     "name": "/People & Society/Subcultures & Niche Interests"
+    },
+    {
+     "name": "/Pets & Animals"
+    },
+    {
+     "name": "/Pets & Animals/Animal Products & Services/Pet Food & Supplies"
+    },
+    {
+     "name": "/Pets & Animals/Animal Products & Services/Veterinarians"
+    },
+    {
+     "name": "/Pets & Animals/Pets"
+    },
+    {
+     "name": "/Pets & Animals/Pets/Birds"
+    },
+    {
+     "name": "/Pets & Animals/Pets/Cats"
+    },
+    {
+     "name": "/Pets & Animals/Pets/Dogs"
+    },
+    {
+     "name": "/Pets & Animals/Pets/Exotic Pets"
+    },
+    {
+     "name": "/Pets & Animals/Pets/Fish & Aquaria"
+    },
+    {
+     "name": "/Pets & Animals/Pets/Horses"
+    },
+    {
+     "name": "/Pets & Animals/Pets/Rabbits & Rodents"
+    },
+    {
+     "name": "/Pets & Animals/Pets/Reptiles & Amphibians"
+    },
+    {
+     "name": "/Pets & Animals/Wildlife"
+    },
+    {
+     "name": "/Real Estate"
+    },
+    {
+     "name": "/Real Estate/Real Estate Listings"
+    },
+    {
+     "name": "/Real Estate/Real Estate Listings/Bank-Owned & Foreclosed Properties"
+    },
+    {
+     "name": "/Real Estate/Real Estate Listings/Commercial Properties"
+    },
+    {
+     "name": "/Real Estate/Real Estate Listings/Lots & Land"
+    },
+    {
+     "name": "/Real Estate/Real Estate Listings/Residential Rentals"
+    },
+    {
+     "name": "/Real Estate/Real Estate Listings/Residential Sales"
+    },
+    {
+     "name": "/Real Estate/Real Estate Listings/Timeshares & Vacation Properties"
+    },
+    {
+     "name": "/Real Estate/Real Estate Services"
+    },
+    {
+     "name": "/Reference"
+    },
+    {
+     "name": "/Reference/Directories & Listings"
+    },
+    {
+     "name": "/Reference/Directories & Listings/Business & Personal Listings"
+    },
+    {
+     "name": "/Reference/General Reference"
+    },
+    {
+     "name": "/Reference/General Reference/Biographies & Quotations"
+    },
+    {
+     "name": "/Reference/General Reference/Calculators & Reference Tools"
+    },
+    {
+     "name": "/Reference/General Reference/Dictionaries & Encyclopedias"
+    },
+    {
+     "name": "/Reference/General Reference/Forms Guides & Templates"
+    },
+    {
+     "name": "/Reference/General Reference/Public Records"
+    },
+    {
+     "name": "/Reference/General Reference/Time & Calendars"
+    },
+    {
+     "name": "/Reference/Geographic Reference"
+    },
+    {
+     "name": "/Reference/Geographic Reference/Maps"
+    },
+    {
+     "name": "/Reference/Humanities"
+    },
+    {
+     "name": "/Reference/Humanities/History"
+    },
+    {
+     "name": "/Reference/Humanities/Myth & Folklore"
+    },
+    {
+     "name": "/Reference/Humanities/Philosophy"
+    },
+    {
+     "name": "/Reference/Language Resources"
+    },
+    {
+     "name": "/Reference/Language Resources/Foreign Language Resources"
+    },
+    {
+     "name": "/Reference/Libraries & Museums"
+    },
+    {
+     "name": "/Reference/Libraries & Museums/Museums"
+    },
+    {
+     "name": "/Science"
+    },
+    {
+     "name": "/Science/Astronomy"
+    },
+    {
+     "name": "/Science/Biological Sciences"
+    },
+    {
+     "name": "/Science/Biological Sciences/Neuroscience"
+    },
+    {
+     "name": "/Science/Chemistry"
+    },
+    {
+     "name": "/Science/Computer Science"
+    },
+    {
+     "name": "/Science/Earth Sciences"
+    },
+    {
+     "name": "/Science/Earth Sciences/Atmospheric Science"
+    },
+    {
+     "name": "/Science/Earth Sciences/Geology"
+    },
+    {
+     "name": "/Science/Ecology & Environment"
+    },
+    {
+     "name": "/Science/Ecology & Environment/Climate Change & Global Warming"
+    },
+    {
+     "name": "/Science/Engineering & Technology"
+    },
+    {
+     "name": "/Science/Engineering & Technology/Robotics"
+    },
+    {
+     "name": "/Science/Mathematics"
+    },
+    {
+     "name": "/Science/Mathematics/Statistics"
+    },
+    {
+     "name": "/Science/Physics"
+    },
+    {
+     "name": "/Science/Scientific Institutions"
+    },
+    {
+     "name": "/Sensitive Subjects"
+    },
+    {
+     "name": "/Shopping"
+    },
+    {
+     "name": "/Shopping/Antiques & Collectibles"
+    },
+    {
+     "name": "/Shopping/Apparel"
+    },
+    {
+     "name": "/Shopping/Apparel/Athletic Apparel"
+    },
+    {
+     "name": "/Shopping/Apparel/Casual Apparel"
+    },
+    {
+     "name": "/Shopping/Apparel/Children's Clothing"
+    },
+    {
+     "name": "/Shopping/Apparel/Clothing Accessories"
+    },
+    {
+     "name": "/Shopping/Apparel/Costumes"
+    },
+    {
+     "name": "/Shopping/Apparel/Eyewear"
+    },
+    {
+     "name": "/Shopping/Apparel/Footwear"
+    },
+    {
+     "name": "/Shopping/Apparel/Formal Wear"
+    },
+    {
+     "name": "/Shopping/Apparel/Headwear"
+    },
+    {
+     "name": "/Shopping/Apparel/Men's Clothing"
+    },
+    {
+     "name": "/Shopping/Apparel/Swimwear"
+    },
+    {
+     "name": "/Shopping/Apparel/Undergarments"
+    },
+    {
+     "name": "/Shopping/Apparel/Women's Clothing"
+    },
+    {
+     "name": "/Shopping/Auctions"
+    },
+    {
+     "name": "/Shopping/Classifieds"
+    },
+    {
+     "name": "/Shopping/Consumer Resources"
+    },
+    {
+     "name": "/Shopping/Consumer Resources/Consumer Advocacy & Protection"
+    },
+    {
+     "name": "/Shopping/Consumer Resources/Coupons & Discount Offers"
+    },
+    {
+     "name": "/Shopping/Consumer Resources/Product Reviews & Price Comparisons"
+    },
+    {
+     "name": "/Shopping/Entertainment Media"
+    },
+    {
+     "name": "/Shopping/Entertainment Media/Entertainment Media Rentals"
+    },
+    {
+     "name": "/Shopping/Gifts & Special Event Items"
+    },
+    {
+     "name": "/Shopping/Gifts & Special Event Items/Cards & Greetings"
+    },
+    {
+     "name": "/Shopping/Gifts & Special Event Items/Flowers"
+    },
+    {
+     "name": "/Shopping/Gifts & Special Event Items/Gifts"
+    },
+    {
+     "name": "/Shopping/Luxury Goods"
+    },
+    {
+     "name": "/Shopping/Mass Merchants & Department Stores"
+    },
+    {
+     "name": "/Shopping/Photo & Video Services"
+    },
+    {
+     "name": "/Shopping/Tobacco Products"
+    },
+    {
+     "name": "/Shopping/Toys"
+    },
+    {
+     "name": "/Shopping/Toys/Building Toys"
+    },
+    {
+     "name": "/Shopping/Toys/Die-cast & Toy Vehicles"
+    },
+    {
+     "name": "/Shopping/Toys/Dolls & Accessories"
+    },
+    {
+     "name": "/Shopping/Toys/Ride-On Toys & Wagons"
+    },
+    {
+     "name": "/Shopping/Toys/Stuffed Toys"
+    },
+    {
+     "name": "/Sports"
+    },
+    {
+     "name": "/Sports/Animal Sports"
+    },
+    {
+     "name": "/Sports/College Sports"
+    },
+    {
+     "name": "/Sports/Combat Sports"
+    },
+    {
+     "name": "/Sports/Combat Sports/Boxing"
+    },
+    {
+     "name": "/Sports/Combat Sports/Martial Arts"
+    },
+    {
+     "name": "/Sports/Combat Sports/Wrestling"
+    },
+    {
+     "name": "/Sports/Extreme Sports"
+    },
+    {
+     "name": "/Sports/Extreme Sports/Drag & Street Racing"
+    },
+    {
+     "name": "/Sports/Fantasy Sports"
+    },
+    {
+     "name": "/Sports/Individual Sports"
+    },
+    {
+     "name": "/Sports/Individual Sports/Cycling"
+    },
+    {
+     "name": "/Sports/Individual Sports/Golf"
+    },
+    {
+     "name": "/Sports/Individual Sports/Gymnastics"
+    },
+    {
+     "name": "/Sports/Individual Sports/Racquet Sports"
+    },
+    {
+     "name": "/Sports/Individual Sports/Skate Sports"
+    },
+    {
+     "name": "/Sports/Individual Sports/Track & Field"
+    },
+    {
+     "name": "/Sports/International Sports Competitions"
+    },
+    {
+     "name": "/Sports/International Sports Competitions/Olympics"
+    },
+    {
+     "name": "/Sports/Motor Sports"
+    },
+    {
+     "name": "/Sports/Sporting Goods"
+    },
+    {
+     "name": "/Sports/Sporting Goods/Sports Memorabilia"
+    },
+    {
+     "name": "/Sports/Sporting Goods/Winter Sports Equipment"
+    },
+    {
+     "name": "/Sports/Sports Coaching & Training"
+    },
+    {
+     "name": "/Sports/Team Sports"
+    },
+    {
+     "name": "/Sports/Team Sports/American Football"
+    },
+    {
+     "name": "/Sports/Team Sports/Australian Football"
+    },
+    {
+     "name": "/Sports/Team Sports/Baseball"
+    },
+    {
+     "name": "/Sports/Team Sports/Basketball"
+    },
+    {
+     "name": "/Sports/Team Sports/Cheerleading"
+    },
+    {
+     "name": "/Sports/Team Sports/Cricket"
+    },
+    {
+     "name": "/Sports/Team Sports/Hockey"
+    },
+    {
+     "name": "/Sports/Team Sports/Rugby"
+    },
+    {
+     "name": "/Sports/Team Sports/Soccer"
+    },
+    {
+     "name": "/Sports/Team Sports/Volleyball"
+    },
+    {
+     "name": "/Sports/Water Sports"
+    },
+    {
+     "name": "/Sports/Water Sports/Surfing"
+    },
+    {
+     "name": "/Sports/Water Sports/Swimming"
+    },
+    {
+     "name": "/Sports/Winter Sports"
+    },
+    {
+     "name": "/Sports/Winter Sports/Ice Skating"
+    },
+    {
+     "name": "/Sports/Winter Sports/Skiing & Snowboarding"
+    },
+    {
+     "name": "/Travel"
+    },
+    {
+     "name": "/Travel/Air Travel"
+    },
+    {
+     "name": "/Travel/Air Travel/Airport Parking & Transportation"
+    },
+    {
+     "name": "/Travel/Bus & Rail"
+    },
+    {
+     "name": "/Travel/Car Rental & Taxi Services"
+    },
+    {
+     "name": "/Travel/Cruises & Charters"
+    },
+    {
+     "name": "/Travel/Hotels & Accommodations"
+    },
+    {
+     "name": "/Travel/Hotels & Accommodations/Vacation Rentals & Short-Term Stays"
+    },
+    {
+     "name": "/Travel/Specialty Travel"
+    },
+    {
+     "name": "/Travel/Tourist Destinations"
+    },
+    {
+     "name": "/Travel/Tourist Destinations/Beaches & Islands"
+    },
+    {
+     "name": "/Travel/Tourist Destinations/Mountain & Ski Resorts"
+    },
+    {
+     "name": "/Travel/Tourist Destinations/Regional Parks & Gardens"
+    },
+    {
+     "name": "/Travel/Tourist Destinations/Theme Parks"
+    },
+    {
+     "name": "/Travel/Tourist Destinations/Zoos-Aquariums-Preserves"
     }
    ]

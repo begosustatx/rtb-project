@@ -18,8 +18,8 @@ async function addCategories() {
     await client.connect();
     console.log("on addCategories");
     var dbo = client.db(dbName);
-    const cate = await dbo.collection(colName).insertMany(catJson);
-    console.log(cate);
+    const categories = await dbo.collection(colName).insertMany(catJson);
+    console.log(categories);
     client.close();
 }
 
