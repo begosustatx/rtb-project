@@ -10,7 +10,6 @@ async function getCategories() {
     await client.connect();
     var dbo = client.db(dbName);
     const categories = await dbo.collection(colName).find().toArray();
-    client.close();
     return categories;
 }
 
@@ -20,10 +19,6 @@ async function addCategories() {
     var dbo = client.db(dbName);
     const categories = await dbo.collection(colName).insertMany(catJson);
     console.log(categories);
-    client.close();
 }
-
-
-
 
 module.exports = { getCategories, addCategories };

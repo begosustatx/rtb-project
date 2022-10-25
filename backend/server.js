@@ -1,9 +1,9 @@
 const express = require('express');
 var bodyParser = require('body-parser')
 const cors = require('cors');
-const connect = require("./connect");
 const categories_services = require("./services/categories_services");
 const partner_services = require("./services/partners_service");
+const product_services = require("./services/product_service");
 const app = express();
 
 
@@ -26,12 +26,16 @@ app.use(cors({
     origin: 'http://localhost:3000'
 }));
 app.get("/categories", async function (req, res) {
-    console.log("server categories");
-    await categories_services.addCategories();
-    res.send(req);
+    const categories = await categories_services.getCategories();
+    res.send(categories)
 });
 app.post("/partner", async function (req, res) {
     await partner_services.addPartner(req.body);
+    res.send(req.body);
+});
+
+app.post("/product", async function (req, res) {
+    await product_services.addProduct(req.body);
     res.send(req.body);
 });
 let port = process.env.PORT;

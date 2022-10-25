@@ -1,24 +1,10 @@
 import { useState } from "react";
 import axios from "axios";
-
 export default function Partner() {
 
     const [inputValue, setInputValue] = useState("");
     async function createPartner(){
         const res = await axios.post("http://localhost:8000/partner", {url: inputValue});
-        /*const filtered = sendPost();
-        console.log('categories:', JSON.stringify(filtered));
-        // const filtered = [{"confidence":0.97,"name":"/People & Society/Family & Relationships/Family"},{"confidence":0.76,"name":"/Health/Reproductive Health"},{"confidence":0.73,"name":"/Health/Women's Health"}].map(elem => elem.name);
-        const categories = getCategories(filtered);
-        const products = getProducts(categories);
-        const unique_id = uuid();
-        const newPartner = {
-          id: unique_id,
-          categories: categories,
-          products: products,
-          link: inputValue
-        }
-        console.log(JSON.stringify(newPartner));*/
         console.log("server response:", res);
       }
 
@@ -66,7 +52,7 @@ export default function Partner() {
               Cancel
             </button>
             <button
-              type="submit"
+              type="button"
               className="ml-3 inline-flex justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
               onClick={createPartner}
             >
