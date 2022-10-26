@@ -1,8 +1,11 @@
 import { useState } from "react";
 import axios from "axios";
-export default function Partner() {
+import Modal from './modal'
 
+export default function Partner() {
     const [inputValue, setInputValue] = useState("");
+    const [open, setOpen] = useState(false)
+
     async function createPartner(){
         const res = await axios.post("http://localhost:8000/partner", {url: inputValue});
         console.log("server response:", res);
@@ -33,7 +36,7 @@ export default function Partner() {
                     name="username"
                     id="username"
                     autoComplete="username"
-                    className="block w-full min-w-0 flex-1  rounded-md sm:border sm:border-gray-300 "
+                    className="block w-full min-w-0 flex-1 py-1 px-2 rounded-md sm:border sm:border-gray-300 "
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
                   />
@@ -60,6 +63,7 @@ export default function Partner() {
             </button>
           </div>
         </div>
+        <Modal open={open} setOpen={setOpen}/>
       </form>
     )
   }

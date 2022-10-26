@@ -1,9 +1,11 @@
 import { useState,useEffect } from "react";
 import axios from "axios";
-
+import Select from './select'
+import Modal from './modal'
 export default function Partner() {
   const [categories, setCategories] = useState([]);
   const [inputValue, setInputValue] = useState("");
+  const [open, setOpen] = useState(false)
 
   useEffect(() => {
     const fetchData = async () => {
@@ -14,17 +16,13 @@ export default function Partner() {
   },[]);
 
   async function createProduct(){
+    console.log(categories)
     const selected_categories = categories.filter(cat => cat.selected === true).map(selected => selected._id)
     console.log(selected_categories)
     const res = await axios.post("http://localhost:8000/product", {name: inputValue, categories:selected_categories});
     console.log("server response:", res);
+    setOpen(true);
   } 
-  
-  function updateSelected(index){
-    let newArr = [...categories]; 
-    newArr[index].selected = !newArr[index].selected;
-    setCategories(newArr);
-  }
 
   return (
     <form className="space-y-8 divide-y divide-gray-200">
@@ -47,7 +45,7 @@ export default function Partner() {
                   name="username"
                   id="username"
                   autoComplete="username"
-                  className="block w-full min-w-0 flex-1  rounded-md sm:border sm:border-gray-300 "
+                  className="block w-full min-w-0 flex-1 py-1 px-2 rounded-md sm:border sm:border-gray-300 "
                   value={inputValue}
                   onChange={(e) => setInputValue(e.target.value)}
                 />
@@ -60,28 +58,7 @@ export default function Partner() {
                 Categories
               </label>
               <div className="mt-1 sm:col-span-2 sm:mt-0 ">
-              <fieldset>
-                <div className="mt-4 divide-y divide-gray-200  border-b border-gray-200">
-                  {categories.map((category, index) => (
-                    <div key={category._id} className="relative flex items-start py-4">
-                      <div className="min-w-0 flex-1 text-sm">
-                        <label htmlFor={`category-${category._id}`} className="select-none font-medium text-gray-700">
-                          {category.name}
-                        </label>
-                      </div>
-                      <div className="ml-3 flex h-5 items-center">
-                        <input
-                          id={`category-${category._id}`}
-                          name={`category-${category._id}`}
-                          type="checkbox"
-                          className="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500"
-                          onChange={() => updateSelected(index)}
-                        />
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </fieldset>
+                <Select categories={categories} setCategories={setCategories}/>
               </div>
             </div>
           </div>
@@ -104,6 +81,7 @@ export default function Partner() {
           </button>
         </div>
       </div>
+      <Modal open={open} setOpen={setOpen}/>
     </form>
   )
 }

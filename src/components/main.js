@@ -3,7 +3,7 @@ import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import Partner from './partner'
 import Product from './product'
-
+import Select from './select'
 const user = {
     name: 'Tom Cook',
     email: 'tom@example.com',
