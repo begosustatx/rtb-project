@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+// this loads all default config
+init();
 function App() {
   return (
     <div className="App">
