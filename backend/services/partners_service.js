@@ -1,5 +1,4 @@
 const axios = require('axios');
-const str = require 
 const { MongoClient } = require("mongodb");
 
 // Replace the following with your Atlas connection string                                                                                                                                        
@@ -36,8 +35,7 @@ async function getProductsId (catIds){
     const objs = await Promise.all(catIds.map(async(id) =>{
        return  await client.db(dbName).collection("Products").findOne({categories: id})
     }));
-    const ids = objs.filter(obj => obj !== undefined).map(obj => obj._id);
-    return ids;
+    return objs.filter(obj => obj !== undefined).map(obj => obj?._id);
 }
 
 async function addPartner(body) {
@@ -51,6 +49,10 @@ async function addPartner(body) {
     }
     await client.db(dbName).collection(colName).insertOne(newPartner);
 }
+async function getPartners() {
+    await client.connect();
+    var dbo = client.db(dbName);
+    return await dbo.collection(colName).find().toArray();
+}
 
-
-module.exports = { addPartner };
+module.exports = { addPartner, getPartners };

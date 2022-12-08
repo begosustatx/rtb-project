@@ -1,6 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
-import Modal from './modal'
+import Modal from './common/modal'
 
 export default function Partner() {
     const [inputValue, setInputValue] = useState("");
@@ -12,7 +12,7 @@ export default function Partner() {
       }
 
     async function addCategories(){
-        axios.get("http://localhost:8000/categories");
+       // axios.get("http://localhost:8000/categories");
     }
     return (
       <form className="space-y-8 divide-y divide-gray-200">
@@ -59,7 +59,7 @@ export default function Partner() {
             </button>
           </div>
         </div>
-        <Modal open={open} setOpen={setOpen}/>
+        <Modal open={open} setOpen={setOpen} title="Partner created" content="The partner creation was successful"/>
       </form>
     )
   }

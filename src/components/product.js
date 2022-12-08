@@ -1,7 +1,7 @@
 import { useState,useEffect } from "react";
 import axios from "axios";
 import Select from './select'
-import Modal from './modal'
+import Modal from './common/modal'
 export default function Partner() {
   const [categories, setCategories] = useState([]);
   const [inputValue, setInputValue] = useState("");

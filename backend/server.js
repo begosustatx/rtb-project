@@ -29,6 +29,12 @@ app.get("/categories", async function (req, res) {
     const categories = await categories_services.getCategories();
     res.send(categories)
 });
+
+app.get("/partners", async function (req, res) {
+    const categories = await partner_services.getPartners();
+    res.send(categories)
+});
+
 app.post("/partner", async function (req, res) {
     await partner_services.addPartner(req.body);
     res.send(req.body);

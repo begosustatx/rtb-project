@@ -15,7 +15,7 @@ async function getCategories() {
 
 async function addCategories() {
     await client.connect();
-    console.log("on addCategories");
+    //console.log("on addCategories");
     var dbo = client.db(dbName);
     const categories = await dbo.collection(colName).insertMany(catJson);
     console.log(categories);

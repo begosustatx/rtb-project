@@ -1,167 +1,546 @@
 [
     {
-     "name": "/Autos & Vehicles/Bicycles & Accessories"
+        "name": "/Arts & Entertainment",
+        "topics_id": 1
     },
     {
-     "name": "/Autos & Vehicles/Bicycles & Accessories/Bike Parts & Repair"
+        "name": "/Arts & Entertainment/Entertainment Industry",
+        "topics_id": 6
     },
     {
-     "name": "/Autos & Vehicles/Bicycles & Accessories/BMX Bikes"
+        "name": "/Arts & Entertainment/Humor",
+        "topics_id": 7
     },
     {
-     "name": "/Autos & Vehicles/Classic Vehicles"
+        "name": "/Arts & Entertainment/Movies",
+        "topics_id": 12
     },
     {
-     "name": "/Autos & Vehicles/Commercial Vehicles/Cargo Trucks & Trailers"
+        "name": "/Arts & Entertainment/Music & Audio",
+        "topics_id": 23
     },
     {
-     "name": "/Autos & Vehicles/Motor Vehicles (By Type)"
+        "name": "/Arts & Entertainment/Music & Audio/Classical Music",
+        "topics_id": 25
     },
     {
-     "name": "/Autos & Vehicles/Motor Vehicles (By Type)/Hybrid & Alternative Vehicles"
+        "name": "/Arts & Entertainment/Music & Audio/Country Music",
+        "topics_id": 26
     },
     {
-     "name": "/Autos & Vehicles/Motor Vehicles (By Type)/Motorcycles"
+        "name": "/Arts & Entertainment/Music & Audio/Dance & Electronic Music",
+        "topics_id": 27
     },
     {
-     "name": "/Autos & Vehicles/Motor Vehicles (By Type)/Off-Road Vehicles"
+        "name": "/Arts & Entertainment/Music & Audio/Pop Music",
+        "topics_id": 31
     },
     {
-     "name": "/Autos & Vehicles/Motor Vehicles (By Type)/Trucks & SUVs"
+        "name": "/Arts & Entertainment/Music & Audio/Rock Music",
+        "topics_id": 33
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Codes & Driving Laws"
+        "name": "/Arts & Entertainment/Music & Audio/Soundtracks",
+        "topics_id": 38
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Codes & Driving Laws/Vehicle Licensing & Registration"
+        "name": "/Arts & Entertainment/Music & Audio/World Music",
+        "topics_id": 40
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Parts & Services"
+        "name": "/Arts & Entertainment/Visual Art & Design",
+        "topics_id": 53
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Parts & Services/Gas Prices & Vehicle Fueling"
+        "name": "/Arts & Entertainment/Visual Art & Design/Design",
+        "topics_id": 54
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Parts & Services/Vehicle Parts & Accessories"
+        "name": "/Arts & Entertainment/Visual Art & Design/Painting",
+        "topics_id": 55
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Parts & Services/Vehicle Repair & Maintenance"
+        "name": "/Arts & Entertainment/Visual Art & Design/Photographic & Digital Arts",
+        "topics_id": 56
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Shopping"
+        "name": "/Autos & Vehicles",
+        "topics_id": 57
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Shopping/Used Vehicles"
+        "name": "/Autos & Vehicles/Classic Vehicles",
+        "topics_id": 59
     },
     {
-     "name": "/Autos & Vehicles/Vehicle Shows"
+        "name": "/Autos & Vehicles/Motor Vehicles (By Type)",
+        "topics_id": 62
     },
     {
-     "name": "/Games/Family-Oriented Games & Activities"
+        "name": "/Autos & Vehicles/Motor Vehicles (By Type)/Hybrid & Alternative Vehicles",
+        "topics_id": 67
     },
     {
-     "name": "/Health/Reproductive Health"
+        "name": "/Autos & Vehicles/Motor Vehicles (By Type)/Motorcycles",
+        "topics_id": 70
     },
     {
-     "name": "/Health/Women's Health"
+        "name": "/Autos & Vehicles/Motor Vehicles (By Type)/Off-Road Vehicles",
+        "topics_id": 71
     },
     {
-     "name": "/Home & Garden/Nursery & Playroom"
+        "name": "/Autos & Vehicles/Vehicle Shopping",
+        "topics_id": 83
     },
     {
-     "name": "/People & Society/Family & Relationships"
+        "name": "/Autos & Vehicles/Vehicle Shopping/Used Vehicles",
+        "topics_id": 84
     },
     {
-     "name": "/People & Society/Family & Relationships/Family"
+        "name": "/Autos & Vehicles/Vehicle Shows",
+        "topics_id": 85
     },
     {
-     "name": "/People & Society/Family & Relationships/Marriage"
+        "name": "/Beauty & Fitness",
+        "topics_id": 86
     },
     {
-     "name": "/Pets & Animals"
+        "name": "/Beauty & Fitness/Body Art",
+        "topics_id": 87
     },
     {
-     "name": "/Pets & Animals/Animal Products & Services/Pet Food & Supplies"
+        "name": "/Beauty & Fitness/Face & Body Care",
+        "topics_id": 88
     },
     {
-     "name": "/Pets & Animals/Animal Products & Services/Veterinarians"
+        "name": "/Beauty & Fitness/Face & Body Care/Make-Up & Cosmetics",
+        "topics_id": 92
     },
     {
-     "name": "/Pets & Animals/Pets"
+        "name": "/Beauty & Fitness/Face & Body Care/Perfumes & Fragrances",
+        "topics_id": 94
     },
     {
-     "name": "/Pets & Animals/Pets/Birds"
+        "name": "/Beauty & Fitness/Fashion & Style",
+        "topics_id": 96
     },
     {
-     "name": "/Pets & Animals/Pets/Cats"
+        "name": "/Beauty & Fitness/Hair Care",
+        "topics_id": 99
     },
     {
-     "name": "/Pets & Animals/Pets/Dogs"
+        "name": "/Books & Literature",
+        "topics_id": 100
     },
     {
-     "name": "/Pets & Animals/Pets/Exotic Pets"
+        "name": "/Books & Literature/Children's Literature",
+        "topics_id": 101
     },
     {
-     "name": "/Pets & Animals/Pets/Fish & Aquaria"
+        "name": "/Books & Literature/Poetry",
+        "topics_id": 102
     },
     {
-     "name": "/Pets & Animals/Pets/Horses"
+        "name": "/Business & Industrial",
+        "topics_id": 103
     },
     {
-     "name": "/Pets & Animals/Pets/Rabbits & Rodents"
+        "name": "/Business & Industrial/Agriculture & Forestry",
+        "topics_id": 106
     },
     {
-     "name": "/Pets & Animals/Pets/Reptiles & Amphibians"
+        "name": "/Business & Industrial/Automotive Industry",
+        "topics_id": 108
     },
     {
-     "name": "/Pets & Animals/Wildlife"
+        "name": "/Business & Industrial/Business Operations",
+        "topics_id": 110
     },
     {
-     "name": "/Shopping/Apparel/Children's Clothing"
+        "name": "/Business & Industrial/Construction & Maintenance",
+        "topics_id": 114
     },
     {
-     "name": "/Travel"
+        "name": "/Business & Industrial/Energy & Utilities",
+        "topics_id": 117
     },
     {
-     "name": "/Travel/Air Travel"
+        "name": "/Business & Industrial/Hospitality Industry",
+        "topics_id": 119
     },
     {
-     "name": "/Travel/Air Travel/Airport Parking & Transportation"
+        "name": "/Business & Industrial/Manufacturing",
+        "topics_id": 120
     },
     {
-     "name": "/Travel/Bus & Rail"
+        "name": "/Business & Industrial/Metals & Mining",
+        "topics_id": 121
     },
     {
-     "name": "/Travel/Car Rental & Taxi Services"
+        "name": "/Business & Industrial/Pharmaceuticals & Biotech",
+        "topics_id": 122
     },
     {
-     "name": "/Travel/Cruises & Charters"
+        "name": "/Business & Industrial/Printing & Publishing",
+        "topics_id": 123
     },
     {
-     "name": "/Travel/Hotels & Accommodations"
+        "name": "/Business & Industrial/Retail Trade",
+        "topics_id": 124
     },
     {
-     "name": "/Travel/Hotels & Accommodations/Vacation Rentals & Short-Term Stays"
+        "name": "/Computers & Electronics",
+        "topics_id": 126
     },
     {
-     "name": "/Travel/Specialty Travel"
+        "name": "/Computers & Electronics/Consumer Electronics",
+        "topics_id": 129
     },
     {
-     "name": "/Travel/Tourist Destinations"
+        "name": "/Computers & Electronics/Networking",
+        "topics_id": 137
     },
     {
-     "name": "/Travel/Tourist Destinations/Beaches & Islands"
+        "name": "/Computers & Electronics/Programming",
+        "topics_id": 139
     },
     {
-     "name": "/Travel/Tourist Destinations/Mountain & Ski Resorts"
+        "name": "/Computers & Electronics/Software",
+        "topics_id": 140
     },
     {
-     "name": "/Travel/Tourist Destinations/Regional Parks & Gardens"
+        "name": "/Computers & Electronics/Software/Operating Systems",
+        "topics_id": 145
     },
     {
-     "name": "/Travel/Tourist Destinations/Theme Parks"
+        "name": "/Finance",
+        "topics_id": 149
     },
     {
-     "name": "/Travel/Tourist Destinations/Zoos-Aquariums-Preserves"
+        "name": "/Finance/Accounting & Auditing",
+        "topics_id": 150
+    },
+    {
+        "name": "/Finance/Accounting & Auditing/Tax Preparation & Planning",
+        "topics_id": 151
+    },
+    {
+        "name": "/Finance/Financial Planning & Management",
+        "topics_id": 153
+    },
+    {
+        "name": "/Finance/Financial Planning & Management/Retirement & Pension",
+        "topics_id": 154
+    },
+    {
+        "name": "/Finance/Grants, Scholarships & Financial Aid",
+        "topics_id": 155
+    },
+    {
+        "name": "/Finance/Grants, Scholarships & Financial Aid/Study Grants & Scholarships",
+        "topics_id": 156
+    },
+    {
+        "name": "/Finance/Insurance",
+        "topics_id": 158
+    },
+    {
+        "name": "/Finance/Insurance/Health Insurance",
+        "topics_id": 160
+    },
+    {
+        "name": "/Finance/Investing",
+        "topics_id": 164
+    },
+    {
+        "name": "/Finance/Investing/Commodities & Futures Trading",
+        "topics_id": 165
+    },
+    {
+        "name": "/Finance/Investing/Currencies & Foreign Exchange",
+        "topics_id": 166
+    },
+    {
+        "name": "/Finance/Investing/Stocks & Bonds",
+        "topics_id": 169
+    },
+    {
+        "name": "/Food & Drink",
+        "topics_id": 172
+    },
+    {
+        "name": "/Food & Drink/Cooking & Recipes",
+        "topics_id": 173
+    },
+    {
+        "name": "/Food & Drink/Cooking & Recipes/BBQ & Grilling",
+        "topics_id": 174
+    },
+    {
+        "name": "/Food & Drink/Food & Grocery Retailers",
+        "topics_id": 179
+    },
+    {
+        "name": "/Games",
+        "topics_id": 180
+    },
+    {
+        "name": "/Games/Card Games",
+        "topics_id": 182
+    },
+    {
+        "name": "/Games/Computer & Video Games",
+        "topics_id": 183
+    },
+    {
+        "name": "/Games/Computer & Video Games/Casual Games",
+        "topics_id": 186
+    },
+    {
+        "name": "/Games/Computer & Video Games/Music & Dance Games",
+        "topics_id": 189
+    },
+    {
+        "name": "/Games/Computer & Video Games/Simulation Games",
+        "topics_id": 190
+    },
+    {
+        "name": "/Games/Computer & Video Games/Sports Games",
+        "topics_id": 191
+    },
+    {
+        "name": "/Games/Computer & Video Games/Strategy Games",
+        "topics_id": 192
+    },
+    {
+        "name": "/Games/Roleplaying Games",
+        "topics_id": 194
+    },
+    {
+        "name": "/Hobbies & Leisure",
+        "topics_id": 196
+    },
+    {
+        "name": "/Hobbies & Leisure/Fiber & Textile Arts",
+        "topics_id": 200
+    },
+    {
+        "name": "/Hobbies & Leisure/Outdoors",
+        "topics_id": 201
+    },
+    {
+        "name": "/Hobbies & Leisure/Outdoors/Fishing",
+        "topics_id": 202
+    },
+    {
+        "name": "/Hobbies & Leisure/Paintball",
+        "topics_id": 204
+    },
+    {
+        "name": "/Hobbies & Leisure/Radio Control & Modeling",
+        "topics_id": 205
+    },
+    {
+        "name": "/Home & Garden",
+        "topics_id": 207
+    },
+    {
+        "name": "/Home & Garden/Home & Interior Decor",
+        "topics_id": 209
+    },
+    {
+        "name": "/Home & Garden/Home Appliances",
+        "topics_id": 210
+    },
+    {
+        "name": "/Home & Garden/Home Improvement",
+        "topics_id": 211
+    },
+    {
+        "name": "/Home & Garden/Home Safety & Security",
+        "topics_id": 212
+    },
+    {
+        "name": "/Internet & Telecom",
+        "topics_id": 215
+    },
+    {
+        "name": "/Jobs & Education",
+        "topics_id": 226
+    },
+    {
+        "name": "/Jobs & Education/Education",
+        "topics_id": 227
+    },
+    {
+        "name": "/Jobs & Education/Education/Colleges & Universities",
+        "topics_id": 229
+    },
+    {
+        "name": "/Jobs & Education/Education/Distance Learning",
+        "topics_id": 230
+    },
+    {
+        "name": "/Jobs & Education/Education/Homeschooling",
+        "topics_id": 233
+    },
+    {
+        "name": "/Jobs & Education/Education/Standardized & Admissions Tests",
+        "topics_id": 234
+    },
+    {
+        "name": "/Jobs & Education/Education/Vocational & Continuing Education",
+        "topics_id": 235
+    },
+    {
+        "name": "/Jobs & Education/Jobs",
+        "topics_id": 236
+    },
+    {
+        "name": "/Jobs & Education/Jobs/Career Resources & Planning",
+        "topics_id": 237
+    },
+    {
+        "name": "/Jobs & Education/Jobs/Job Listings",
+        "topics_id": 238
+    },
+    {
+        "name": "/Law & Government",
+        "topics_id": 239
+    },
+    {
+        "name": "/Law & Government/Legal",
+        "topics_id": 241
+    },
+    {
+        "name": "/Law & Government/Legal/Legal Services",
+        "topics_id": 242
+    },
+    {
+        "name": "/News",
+        "topics_id": 243
+    },
+    {
+        "name": "/News/Politics",
+        "topics_id": 247
+    },
+    {
+        "name": "/News/Weather",
+        "topics_id": 248
+    },
+    {
+        "name": "/Online Communities",
+        "topics_id": 250
+    },
+    {
+        "name": "/Online Communities/Dating & Personals",
+        "topics_id": 251
+    },
+    {
+        "name": "/Online Communities/Social Networks",
+        "topics_id": 253
+    },
+    {
+        "name": "/People & Society",
+        "topics_id": 254
+    },
+    {
+        "name": "/People & Society/Family & Relationships",
+        "topics_id": 255
+    },
+    {
+        "name": "/Pets & Animals",
+        "topics_id": 263
+    },
+    {
+        "name": "/Pets & Animals/Pets",
+        "topics_id": 265
+    },
+    {
+        "name": "/Pets & Animals/Pets/Birds",
+        "topics_id": 266
+    },
+    {
+        "name": "/Pets & Animals/Pets/Cats",
+        "topics_id": 267
+    },
+    {
+        "name": "/Pets & Animals/Pets/Dogs",
+        "topics_id": 268
+    },
+    {
+        "name": "/Pets & Animals/Pets/Fish & Aquaria",
+        "topics_id": 269
+    },
+    {
+        "name": "/Pets & Animals/Pets/Reptiles & Amphibians",
+        "topics_id": 270
+    },
+    {
+        "name": "/Real Estate",
+        "topics_id": 272
+    },
+    {
+        "name": "/Reference",
+        "topics_id": 275
+    },
+    {
+        "name": "/Science",
+        "topics_id": 279
+    },
+    {
+        "name": "/Science/Biological Sciences",
+        "topics_id": 281
+    },
+    {
+        "name": "/Science/Chemistry",
+        "topics_id": 283
+    },
+    {
+        "name": "/Science/Ecology & Environment",
+        "topics_id": 284
+    },
+    {
+        "name": "/Science/Physics",
+        "topics_id": 287
+    },
+    {
+        "name": "/Shopping",
+        "topics_id": 289
+    },
+    {
+        "name": "/Shopping/Antiques & Collectibles",
+        "topics_id": 290
+    },
+    {
+        "name": "/Shopping/Consumer Resources",
+        "topics_id": 292
+    },
+    {
+        "name": "/Shopping/Consumer Resources/Coupons & Discount Offers",
+        "topics_id": 293
+    },
+    {
+        "name": "/Sports",
+        "topics_id": 299
+    },
+    {
+        "name": "/Sports/College Sports",
+        "topics_id": 308
+    },
+    {
+        "name": "/Sports/Extreme Sports",
+        "topics_id": 312
+    },
+    {
+        "name": "/Sports/Fantasy Sports",
+        "topics_id": 314
+    },
+    {
+        "name": "/Travel & Transportation",
+        "topics_id": 332
+    },
+    {
+        "name": "/Travel",
+        "topics_id": 333
     }
-   ]
+]
