@@ -2,7 +2,7 @@ import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import Table from './PartnersTable'
-import AddPartner from './AddPartner'
+import AddProduct from './AddProdut'
 
 const user = {
     name: 'Tom Cook',
@@ -13,8 +13,8 @@ const user = {
 const navigation = [
     { name: 'Dashboard', href: '/', current: false },
     { name: 'Categories', href: '/categories', current: false },
-    { name: 'Partners', href: '', current: true },
-    { name: 'Products', href: '/products', current: false },
+    { name: 'Partners', href: '/partners', current: false },
+    { name: 'Products', href: '', current: true },
     { name: 'Reports', href: '#', current: false },
 ]
 const userNavigation = [
@@ -184,7 +184,7 @@ export default function Example() {
         </header>
         <main>
             <div className="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
-                <AddPartner/>
+                <AddProduct/>
                 <Table/>
             </div>
         </main>
