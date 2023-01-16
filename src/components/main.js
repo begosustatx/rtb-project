@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
-import Partner from './partner'
+import GetProduct from './Products/GetProduct'
 import Product from './product'
 
 const user = {
@@ -193,8 +193,7 @@ export default function Example() {
                 </header>
                 <main>
                     <div className="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
-                        <Partner/>
-                        <Product/>
+                        <GetProduct />
                     </div>
                 </main>
             </div>

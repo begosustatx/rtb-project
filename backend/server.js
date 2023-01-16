@@ -35,13 +35,28 @@ app.get("/partners", async function (req, res) {
     res.send(categories)
 });
 
+app.get("/products", async function (req, res) {
+    const products = await product_services.getProducts();
+    res.send(products)
+});
+
+app.post("/getWidgetId", async function (req, res) {
+    const products = await product_services.getWidgetId(req.body);
+    if (products == null) {
+        res.status(500);
+        res.send();
+    }
+    else { res.send({ widgetId: products }) }
+
+});
+
 app.post("/partner", async function (req, res) {
     await partner_services.addPartner(req.body);
     res.send(req.body);
 });
 
 app.post("/product", async function (req, res) {
-    await product_services.addProduct(req.body);
+    await product_services.addProducts(req.body);
     res.send(req.body);
 });
 let port = process.env.PORT;

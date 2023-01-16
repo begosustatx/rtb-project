@@ -1,4 +1,4 @@
-import { useState,useEffect } from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
 import Select from './select'
 import Modal from './common/modal'
@@ -9,20 +9,20 @@ export default function Partner() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const res =  await axios.get("http://localhost:8000/categories");
-        setCategories(res.data.map(cat => ({ ...cat, "selected": false })))
+      const res = await axios.get("http://localhost:8000/products");
+      setCategories(res.data.map(cat => ({ ...cat, "selected": false })))
     }
     fetchData();
-  },[]);
+  }, []);
 
-  async function createProduct(){
+  async function createProduct() {
     console.log(categories)
     const selected_categories = categories.filter(cat => cat.selected === true).map(selected => selected._id)
     console.log(selected_categories)
-    const res = await axios.post("http://localhost:8000/product", {name: inputValue, categories:selected_categories});
+    const res = await axios.post("http://localhost:8000/product", { name: inputValue, categories: selected_categories });
     console.log("server response:", res);
     setOpen(true);
-  } 
+  }
 
   return (
     <form className="space-y-8 divide-y divide-gray-200">
@@ -34,14 +34,13 @@ export default function Partner() {
           <div className="space-y-6 sm:space-y-5">
             <div className="sm:grid sm:grid-cols-3 sm:items-start sm:gap-4 sm:border-t sm:border-gray-200 sm:pt-5">
               <label htmlFor="username" className="block text-sm font-medium text-gray-700 sm:mt-px sm:pt-2">
-                Name
+                WidgetId
               </label>
               <div className="mt-1 sm:col-span-2 sm:mt-0 ">
                 <input
                   type="text"
-                  name="username"
-                  id="username"
-                  autoComplete="username"
+                  name="widgetId"
+                  id="widgetId"
                   className="block w-full min-w-0 flex-1 py-1 px-2 rounded-md sm:border sm:border-gray-300 "
                   value={inputValue}
                   onChange={(e) => setInputValue(e.target.value)}
@@ -55,7 +54,7 @@ export default function Partner() {
                 Categories
               </label>
               <div className="mt-1 sm:col-span-2 sm:mt-0 ">
-                <Select categories={categories} setCategories={setCategories}/>
+                <Select categories={categories} setCategories={setCategories} />
               </div>
             </div>
           </div>
@@ -69,7 +68,7 @@ export default function Partner() {
           >
             Cancel
           </button>
-          <button            
+          <button
             type="button"
             className="ml-3 inline-flex justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
             onClick={createProduct}
@@ -78,7 +77,7 @@ export default function Partner() {
           </button>
         </div>
       </div>
-      <Modal open={open} setOpen={setOpen}/>
+      <Modal open={open} setOpen={setOpen} />
     </form>
   )
 }
